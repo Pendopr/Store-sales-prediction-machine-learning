@@ -49,4 +49,22 @@ pip install pandas-profiling
 ```
 ## Decision Tree Regression Model
 Decision tree is a supervised learning algorithm. It observes features of an object and trains a model in the structure of a tree to predict data in the future to produce meaningful continuous output.
+![pg0](./images/pg0.png)
+
+## EDA
+The sales trend over the years\
+![pg2](./images/pg2.png)
+
+The annual sales that each store make.From the plot we realise that some stores were opened later in the years than other stores making them having lessser sales.\
+![pg1](./images/pg1.png)
+
+After the earthquake we realise that there was apositive impact to the sales for the several weeks after.
+![pg3](./images/pg3.png)
+
+## Results
+The decision tree model captures an rmle of 1.86.
+
+## Author 
+Penina Pendo.
+
 
