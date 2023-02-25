@@ -64,6 +64,9 @@ After the earthquake we realise that there was apositive impact to the sales for
 ## Results
 The decision tree model captures an rmle of 1.86.
 
+## Contributions
+Pull request are welcome
+
 ## Author 
 Penina Pendo.
 
