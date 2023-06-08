@@ -87,10 +87,10 @@ streamlit run app.py
 ## Contributions
 Contributions and pull requests are welcome! If you would like to contribute to this project, please follow these steps:
 
-1.Fork this repository.
-2.Create a new branch with a descriptive name
-3.Make your desired changes and commit them.
-4.Push the branch to your forked repository
+1.Fork this repository.\
+2.Create a new branch with a descriptive name\
+3.Make your desired changes and commit them.\
+4.Push the branch to your forked repository.\
 5.Open a pull request in this repository and describe your changes.
 
 Feel free to contribute to different aspects of the project, including improving the model, exploring additional features, or enhancing the EDA.
